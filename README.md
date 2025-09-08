@@ -1,4 +1,4 @@
-# 💰 Full Stack AI Finance Platform
+# 💰 AI Finance Platform
 
 An AI-powered finance platform built with **Next.js 15**, **Supabase**, **Prisma**, **Inngest**, **ArcJet**, **TailwindCSS**, and **Shadcn UI**.  
 Designed for modern full-stack development with authentication, real-time events, AI integration, and secure financial workflows. 🚀🔥
@@ -40,11 +40,3 @@ Designed for modern full-stack development with authentication, real-time events
 - [Google Generative AI](https://ai.google.dev/)
 - [Resend](https://resend.com/) + [React Email](https://react.email/)
 
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/finance-platform.git
-cd finance-platform
